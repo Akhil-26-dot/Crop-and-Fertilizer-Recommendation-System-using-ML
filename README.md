@@ -47,7 +47,7 @@ Two datasets are used in this project:
   - `pandas` and `numpy` for data manipulation
   - `matplotlib` and `seaborn` for data visualization
   - `scikit-learn` for machine learning model development
-  - `flask` or `streamlit` for deploying the application
+  
 - **Machine Learning Algorithms**:
   -
 
