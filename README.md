@@ -101,7 +101,6 @@ This project is licensed under the MIT License. See `LICENSE` file for details.
 
 ## Acknowledgments
 - The datasets were sourced for academic and development purposes.
-- Thanks to the contributors and open-source community for support.
 
 ---
 
