@@ -28,7 +28,7 @@ Two datasets are used in this project:
   - `Humidity`: Relative humidity in %
   - `pH`: pH level of the soil
   - `Rainfall`: Rainfall in mm
-  - `Crop`: Target crop
+  - `label`: Target crop
 
 ### 2. **Fertilizer Recommendation Dataset**
 - **File**: Fertilizer Prediction.csv
@@ -37,7 +37,7 @@ Two datasets are used in this project:
   - `Crop Type`: Type of crop
   - `Soil Type`: Type of soil
   - `N`, `P`, `K`: Current levels of nitrogen, phosphorus, and potassium
-  - `Recommended Fertilizer`: Optimal fertilizer suggestion
+  - `Fertilizer Name`: Optimal fertilizer suggestion
 
 ---
 
